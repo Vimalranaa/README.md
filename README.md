@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vimal Rana</h1>
 <h4 align="center">I am Vimal Rana, a MERN Stack developer with 2+ years of experience in building high-quality web applications. I specialize in creating scalable, responsive, and user-friendly solutions, and have worked on various projects ranging from small business websites to enterprise-level applications. My passion lies in writing clean code, solving challenging problems, and delivering impactful products.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalranaa&label=Profile%20views&color=0e75b6&style=flat" alt="vimalranaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalranaa" alt="vimalranaa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Real Estate CRM**
 
 - 👨‍💻 All of my projects are available at [https://vimal-dev-tau.vercel.app/](https://vimal-dev-tau.vercel.app/)
