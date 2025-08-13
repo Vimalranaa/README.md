@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vimal Rana</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">I am Vimal Rana, a MERN Stack developer with 2+ years of experience in building high-quality web applications. I specialize in creating scalable, responsive, and user-friendly solutions, and have worked on various projects ranging from small business websites to enterprise-level applications. My passion lies in writing clean code, solving challenging problems, and delivering impactful products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalranaa&label=Profile%20views&color=0e75b6&style=flat" alt="vimalranaa" /> </p>
 
